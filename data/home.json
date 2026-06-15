@@ -1,0 +1,24 @@
+
+
+{
+  "brand": "Doubi",
+  "user": "User",
+  "slogan": "Opérateur public leader des transports terrestres au Sénégal et en Afrique de l'Ouest",
+  "services": [
+    {
+      "name": "SEN-TOUR",
+      "description": "Voyager en toute sécurité avec nos Bus interUrbain",
+      "image": "./images/bus.jpg"
+    },
+    {
+      "name": "TATA",
+      "description": "Voyager en toute sécurité avec nos Bus interUrbain",
+      "image": "./images/mini-bus.jpg"
+    },
+    {
+      "name": "BADJIENE",
+      "description": "Voyager en toute sécurité avec nos Bus interUrbain",
+      "image": "./images/auto-service.jpg"
+    }
+  ]
+}
