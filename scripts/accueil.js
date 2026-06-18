@@ -5,7 +5,7 @@ export async function loadAccueil() {
   const homeData = await response.json();
 
   document.getElementById('app').innerHTML = `
-    <div class="page-container">
+    <div class="page-container-accueil">
       <nav class="navbar">
         <div>${homeData.brand}</div>
         <div>

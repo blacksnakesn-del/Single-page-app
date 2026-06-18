@@ -1,11 +1,14 @@
-
-
-
 [
   {
     "prenom": "Abdou",
     "nom": "Kebe",
     "email": "abdou.kebe.sn@gmail.com",
     "password": "12345678"
+  },
+  {
+    "prenom": "Fallou",
+    "nom": "Diop",
+    "email": "falloudiop2002@gmail.com",
+    "password": "Falloudiop2002"
   }
 ]
